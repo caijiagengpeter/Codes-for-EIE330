@@ -4,4 +4,5 @@ This repository include all the report codes made by CaiJiaGeng（蔡家赓12200
 
 The code list is also here:
 1. Full-adder
-2.  
+2. Decoder2to4
+3. Comparator1bit
